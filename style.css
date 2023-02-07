@@ -113,6 +113,7 @@ button,
 .section-two .main {
     justify-content: center;
     gap: 100px;
+    margin-bottom: 75px;
 }
 
 .section-two p {
@@ -125,4 +126,31 @@ button,
 
 a {
     color: #E5E7EB;  
+}
+
+.section-three {
+    background-color: #E5E7EB;
+    justify-content: center;
+}
+
+.quote-box {
+    width: 800px;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.quote {
+    flex-wrap: wrap;
+    align-self: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quote-source {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bold;
 }
