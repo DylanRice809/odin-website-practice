@@ -207,3 +207,16 @@ a {
 .header button {
     border-radius: 10px;
 }
+
+.footer {
+    background-color: #1F2937;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.footer .text {
+    font-size: 18px;
+    color: #F9FAF8;
+}
