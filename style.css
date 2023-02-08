@@ -32,8 +32,8 @@ ul {
 
 .container.main {
     justify-content: space-between;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .header button,
@@ -50,8 +50,8 @@ ul {
 
 .links {
     justify-content: space-between;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 25%;
+    margin-right: 25%;
     margin-bottom: 100px;
     padding-top: 10px;
     align-items: center;
